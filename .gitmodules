@@ -5,3 +5,6 @@
 [submodule "fidelius"]
 	path = fidelius
 	url = https://github.com/mattwarkentin/fidelius
+[submodule "openmpp"]
+	path = openmpp
+	url = https://github.com/mattwarkentin/openmpp
