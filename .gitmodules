@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "dpdr"]
+	path = dpdr
+	url = https://github.com/mattwarkentin/dpdr
 [submodule "fidelius"]
 	path = fidelius
 	url = https://github.com/mattwarkentin/fidelius
