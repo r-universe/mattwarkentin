@@ -11,3 +11,6 @@
 [submodule "openmpp"]
 	path = openmpp
 	url = https://github.com/mattwarkentin/openmpp
+[submodule "orthanc"]
+	path = orthanc
+	url = https://github.com/mattwarkentin/orthanc
